@@ -1,3 +1,3 @@
 # SMS Rain Alert
 
-Send an SMS message when rain is in the forecast, according to the OpenWeather API
+Use the OpenWeather API to gather weather forecast data and send an SMS message in the morning when rain is in the forecast for the day
